@@ -20,7 +20,7 @@ A concentration of sightings in the United States is evident, with a smaller num
 ### Temporal Filters
 The application of monthly and time-based filters provides an opportunity to examine potential seasonal or time-specific trends in sightings data.
 
-![UFO Sightings Data Visualization](link-to-your-image-here)
+![UFO Sightings Data Visualization](https://github.com/PWRXNDR/PowerBI-CaseStudy-2/blob/36194ce741b56ccc3c92eb20101e1b403bff2ecb/UFO%20sightings.png)
 *Figure 1: UFO Sightings Data Visualization*
 
 ## Concluding Remarks
